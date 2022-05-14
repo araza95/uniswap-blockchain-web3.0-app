@@ -3,9 +3,9 @@
 
 # Preview
 # Cmds
-    1- npm create next-app -e with-tailwindcss client 
-    2- md studio ( create's new folder in the root directory )
-    3- md smart contract
+    1- npm create next-app -e with-tailwindcss client  -> NEXT.Js
+    2- md studio ( create's new folder in the root directory ) -> Sanity DB
+    3- md smart contract -> Solidity
     
 # Next.js + Tailwind CSS Example
 
