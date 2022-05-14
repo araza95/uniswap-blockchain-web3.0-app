@@ -5,8 +5,12 @@
 # Cmds
     1- npm create next-app -e with-tailwindcss client  -> NEXT.Js
     2- md studio ( create's new folder in the root directory ) -> Sanity DB
-    3- md smart contract -> Solidity
-    
+    3- md smart contract -> Solidity 
+    4- cd studio    
+        If sanity is not installed, type : npm i -g @sanity/cli
+        sanity init
+        --Use the default dataset configuration? Yes
+        --clean schema.
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
