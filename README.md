@@ -4,7 +4,7 @@
 # Preview
 # Cmds
     1- npm create next-app -e with-tailwindcss client 
-    2- md studio (create's new folder in the root directory)
+    2- md studio ( create's new folder in the root directory )
     3- md smart contract
     
 # Next.js + Tailwind CSS Example
